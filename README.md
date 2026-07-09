@@ -59,11 +59,8 @@ Durante o desenvolvimento deste projeto foram utilizados conceitos importantes d
 
 ## 📸 Preview
 
-Adicione uma captura de tela do projeto na pasta `assets` e exiba aqui:
-
-```md
 ![Demo da aplicação](assets/demo.gif)
-```
+
 
 ---
 
