@@ -62,7 +62,7 @@ Durante o desenvolvimento deste projeto foram utilizados conceitos importantes d
 Adicione uma captura de tela do projeto na pasta `assets` e exiba aqui:
 
 ```md
-![Preview do Projeto](images/Todolist-demo.gif)
+![Demonstração da To do list](images/todolist-demo.gif)
 ```
 
 ---
